@@ -1,1 +1,1 @@
-This the Project from the coursera where the data analysis is done on the revenue data from Tesla and Gamespot
+Repository contaning data analysis prjects from Coursera and pilot project
